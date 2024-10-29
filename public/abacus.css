@@ -1,0 +1,22 @@
+.woocommerce-page .products img{ 
+	height: 210px !important;
+}
+li .woocommerce-loop-product__link{width:100% !important;}
+ul.products li.product .woocommerce-loop-product__title {
+    font-size: 100% !important;
+	min-height: 44px;
+    font-weight: 500 !important;
+}
+    
+ul.products li.product .price {
+    text-align: right;
+    font-size: 15px;
+	margin-bottom: 0rem !important;
+}
+ .products a.add_to_cart_button{
+	margin-left: 54%;
+    width: 46%;
+    padding: 4px;
+    font-size: 13px;
+    font-weight: 400;
+}
